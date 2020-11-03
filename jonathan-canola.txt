@@ -94,7 +94,7 @@ https://codepen.io/jonathan-canola/pen/KKzyYeW?editors=1100
       git checkout -b to get branch
       git commit -m to save all new changes
       git  push to push all changes to git hub
-      then create pulll request which will be merged to master by TL 
+      then create pulll request which will be merged to master
 
 Stretch Questions
 
